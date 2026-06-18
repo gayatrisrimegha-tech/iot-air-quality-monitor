@@ -32,3 +32,4 @@ However, because IoT devices are connected to the internet, they may face cybers
 In conclusion, an IoT Security Alert System is an intelligent and effective security solution that combines sensors, communication networks, and cloud technologies to provide real-time threat detection and instant alerts. It enhances safety, improves response times, and offers convenient remote monitoring, making it an essential technology for modern security applications in homes, businesses, and industries.
 
 *OUTPUT*:
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/ef5b5611-1613-4278-b50e-3992a8f3ef75" />
